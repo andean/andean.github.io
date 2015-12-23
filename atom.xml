@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Andean's Blog]]></title>
+  <subtitle><![CDATA[学无止境]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="https://github.com/andean/"/>
+  <updated>2015-12-23T15:47:08.877Z</updated>
+  <id>https://github.com/andean/</id>
+  
+  <author>
+    <name><![CDATA[Andean]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Android Studio 1.5 SVN 配置]]></title>
+    <link href="https://github.com/andean/2015/12/24/index/"/>
+    <id>https://github.com/andean/2015/12/24/index/</id>
+    <published>2015-12-23T16:00:00.000Z</published>
+    <updated>2015-12-23T15:47:08.877Z</updated>
+    <content type="html"><![CDATA[<h1 id="配置">配置</h1><h2 id="新建项目">新建项目</h2><p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/1.png" alt="新建项目"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/2.png" alt="新建项目"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/3.png" alt="新建项目"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/4.png" alt="新建项目"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/5.png" alt="新建项目"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/6.png" alt="新建项目"></p>
+<h2 id="设置">设置</h2><p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/7.png" alt="设置"></p>
+<p>过滤的文件[Settings –&gt; Version Control –&gt; Ignored Files]<br><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/8.png" alt="设置"></p>
+<p>Share Project（Subversion）[VCS –&gt; Import into Version Control –&gt; Share Project(Subversion)]<br><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/9.png" alt="设置"></p>
+<p>点击Share Project之后会弹出选项卡，点击+来添加svn地址(*注:如果报错，请执行下一步骤！)<br><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/10.png" alt="设置"></p>
+<p>[Setting  –&gt; Subversion]<br>Use command line client 去掉☑ 变成☐<br>Use system default Subversion configuration directory 去掉☑ 变成☐<br><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/11.png" alt="设置"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/12.png" alt="设置"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/13.png" alt="设置"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/14.png" alt="设置"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/15.png" alt="设置"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/16.png" alt="设置"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/17.png" alt="设置"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/18.png" alt="设置"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/19.png" alt="设置"></p>
+<h1 id="检出">检出</h1><h2 id="方法1">方法1</h2><p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/检出/方法1/1.png" alt="方法1"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/检出/方法1/2.png" alt="方法1"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/检出/方法1/3.png" alt="方法1"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/检出/方法1/4.png" alt="方法1"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/检出/方法1/5.png" alt="方法1"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/检出/方法1/6.png" alt="方法1"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/检出/方法1/7.png" alt="方法1"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/检出/方法1/8.png" alt="方法1"></p>
+<h2 id="方法2">方法2</h2><p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/检出/方法2/1.png" alt="方法2"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/检出/方法2/2.png" alt="方法2"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/检出/方法2/3.png" alt="方法2"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/检出/方法2/4.png" alt="方法2"></p>
+<p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/检出/方法2/5.png" alt="方法2"></p>
+<hr>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="配置">配置</h1><h2 id="新建项目">新建项目</h2><p><img src="http://7xoxyz.com1.z0.glb.clouddn.com/AndroidStudio/1.5/SVN/ShareProject（Subversion）/]]>
+    </summary>
+    
+      <category term="tools" scheme="https://github.com/andean/tags/tools/"/>
+    
+  </entry>
+  
+</feed>
